@@ -1,1 +1,1 @@
-# Shopping Module
+# oop-principles
